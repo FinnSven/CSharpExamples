@@ -1,0 +1,14 @@
+/Users/jameshussey/Projects/todolist/todolistproject/bin/Release/net7.0/todolistproject
+/Users/jameshussey/Projects/todolist/todolistproject/bin/Release/net7.0/todolistproject.deps.json
+/Users/jameshussey/Projects/todolist/todolistproject/bin/Release/net7.0/todolistproject.runtimeconfig.json
+/Users/jameshussey/Projects/todolist/todolistproject/bin/Release/net7.0/todolistproject.dll
+/Users/jameshussey/Projects/todolist/todolistproject/bin/Release/net7.0/todolistproject.pdb
+/Users/jameshussey/Projects/todolist/todolistproject/obj/Release/net7.0/todolistproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jameshussey/Projects/todolist/todolistproject/obj/Release/net7.0/todolistproject.AssemblyInfoInputs.cache
+/Users/jameshussey/Projects/todolist/todolistproject/obj/Release/net7.0/todolistproject.AssemblyInfo.cs
+/Users/jameshussey/Projects/todolist/todolistproject/obj/Release/net7.0/todolistproject.csproj.CoreCompileInputs.cache
+/Users/jameshussey/Projects/todolist/todolistproject/obj/Release/net7.0/todolistproject.dll
+/Users/jameshussey/Projects/todolist/todolistproject/obj/Release/net7.0/refint/todolistproject.dll
+/Users/jameshussey/Projects/todolist/todolistproject/obj/Release/net7.0/todolistproject.pdb
+/Users/jameshussey/Projects/todolist/todolistproject/obj/Release/net7.0/todolistproject.genruntimeconfig.cache
+/Users/jameshussey/Projects/todolist/todolistproject/obj/Release/net7.0/ref/todolistproject.dll
